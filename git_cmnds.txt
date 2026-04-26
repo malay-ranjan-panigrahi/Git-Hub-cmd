@@ -1,0 +1,9 @@
+git add <filename> #adding a file on stage area.
+git rm --cached <filename> or git restore --staged <filename># unstage a file or make a staged file to untracked.
+git commit -m "message " #make a file from staged to tracked.
+git restore <file> # restore a deleted tracked file on local repo.
+
+git remote add origin <repo link> # configure a exixting github repo on a local git repo.
+or
+git remote set-url roigin https://PAT@github.com/malay-ranjan-panigrahi/Git-Hub-cmd.git
+git remote -v # to check targated remote repo.
