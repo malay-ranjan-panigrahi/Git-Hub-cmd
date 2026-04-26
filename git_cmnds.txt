@@ -9,3 +9,5 @@ git remote set-url roigin https://PAT@github.com/malay-ranjan-panigrahi/Git-Hub-
 git remote -v # to check targated remote repo.
 git push origin main #push the code from local repo to the github repo.
 git clone <remote repo link> # copyinh a remote repo to local repo.
+
+this is some new changes .
