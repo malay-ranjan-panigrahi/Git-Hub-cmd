@@ -7,3 +7,5 @@ git remote add origin <repo link> # configure a exixting github repo on a local 
 or
 git remote set-url roigin https://PAT@github.com/malay-ranjan-panigrahi/Git-Hub-cmd.git
 git remote -v # to check targated remote repo.
+git push origin main #push the code from local repo to the github repo.
+git clone <remote repo link> # copyinh a remote repo to local repo.
